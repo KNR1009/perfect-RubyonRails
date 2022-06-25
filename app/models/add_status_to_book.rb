@@ -1,0 +1,2 @@
+class AddStatusToBook < ApplicationRecord
+end
